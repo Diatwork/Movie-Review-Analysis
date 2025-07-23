@@ -71,16 +71,6 @@ To determine the **influence of critic vs. user reviews** on movie production an
 
 ---
 
-## 📈 Sample Visuals
-
-> ![Genre Sentiment Trend](./assets/sentiment_trend.png)
-> *Sentiment distribution for Crime genre (2010–2020)*
-
-> ![Seasonal Genre Trends](./assets/seasonal_genre.png)
-> *Seasonal trends in genre popularity*
-
----
-
 ## 🔮 Future Work
 
 - Integrate Twitter/X reviews for more real-time sentiment signals.
